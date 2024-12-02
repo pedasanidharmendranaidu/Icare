@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img src="https://cdn.jsdelivr.net/gh/apolloconfig/apollo@master/doc/images/logo/logo-simple.png" alt="apollo-logo" width="40%">
 
 English | [中文](https://www.apolloconfig.com/#/zh/README)
@@ -557,3 +558,6 @@ The project is licensed under the [Apache 2 license](https://github.com/apolloco
 # Stargazers over time
 
 [![Stargazers over time](https://api.star-history.com/svg?repos=apolloconfig/apollo&type=Date)](https://star-history.com/#apolloconfig/apollo&Date)
+=======
+# Icare
+>>>>>>> 64705658ac347041eb77a05c851047fa89b698ef
